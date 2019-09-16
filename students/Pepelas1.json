@@ -1,15 +1,14 @@
 {
-    "firstName": "Maria Konstantina",
-    "lastName": "Pepelassis",
-    "nickName": "Maria",
-    "privateName": true,
-    "picture": "IMG_0517.JPG",
-    "privatePicture": true,
-    "email": "maria.pepelassis@mail.utoronto.ca",
-    "privateEmail": true,
-    "github": "Pepelas1",
-    "privateGithub": true,
-    "superpower" : "good food, good wine, good company.",
-    "academicinterests": "Reconstructing history"
-  }
-  
+  "firstName": "Maria Konstantina",
+  "lastName": "Pepelassis",
+  "nickName": "Maritina",
+  "privateName": false,
+  "picture": "https://storage.needpix.com/rsynced_images/homework-624735_1280.jpg",
+  "privatePicture": false,
+  "email": "maria.pepelassis@mail.utoronto.ca",
+  "privateEmail": true,
+  "github": "Pepelas1",
+  "privateGithub": true,
+  "superpower" : "Great cook, frequent traveller,loyal friend.",
+  "academicinterests": "I'm interested in learning about statecraft and policy-making through the lens of history."
+}
