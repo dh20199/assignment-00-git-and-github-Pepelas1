@@ -6,9 +6,9 @@
   "picture": "https://storage.needpix.com/rsynced_images/homework-624735_1280.jpg",
   "privatePicture": false,
   "email": "maria.pepelassis@mail.utoronto.ca",
-  "privateEmail": true,
+  "privateEmail": false,
   "github": "Pepelas1",
-  "privateGithub": true,
-  "superpower" : "Great cook, frequent traveller,loyal friend.",
+  "privateGithub": false,
+  "superpower" : "Great cook, frequent traveller, loyal friend.",
   "academicinterests": "I'm interested in learning about statecraft and policy-making through the lens of history."
 }
