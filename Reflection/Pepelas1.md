@@ -5,7 +5,7 @@ Respond to each of the questions below with a carefully thought out reflection o
 ## Question 1
 ### In this assignment, we used your user input to construct a small website composed of flipping cards. Can you think of a more interesting use for this basic layout? The use you describe should serve some pedagogical or research-oriented purpose for historians or humanists.
 
-This layout would be very useful in categorizing important figures, places or themes in history. One side could be an image or text identifying what will be descriped in more focus on the opposite side of the card, allowing for an interactive and succint layout that is more engaging. This would be especially useful for sharing information to a younger audience who are more reliant on visiual cues. 
+This layout would be very useful in categorizing important figures, places or themes in history. One side could be an image or text identifying what will be descriped in more focus on the opposite side of the card, allowing for an interactive and succint layout that is more engaging. This would be especially useful for sharing information to a younger audience who are more reliant on visual cues. 
 
 ## Question 2
 ### This assignment asks you all to perform a certian amount of work (describing yourselves) in order to improve a project (the course roster website). What responsibilities does the "researcher" (in this case, your teacher) have to the participants (you)? What rights do or should the participants have to the end product? 
